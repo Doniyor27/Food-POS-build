@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1dc5f029.chunk.css",
+    "main.js": "/static/js/main.f62813f9.chunk.js",
+    "main.js.map": "/static/js/main.f62813f9.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.3a28443c.js",
+    "runtime-main.js.map": "/static/js/runtime-main.3a28443c.js.map",
+    "static/js/2.c0094893.chunk.js": "/static/js/2.c0094893.chunk.js",
+    "static/js/2.c0094893.chunk.js.map": "/static/js/2.c0094893.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.1dc5f029.chunk.css.map": "/static/css/main.1dc5f029.chunk.css.map",
+    "static/js/2.c0094893.chunk.js.LICENSE.txt": "/static/js/2.c0094893.chunk.js.LICENSE.txt",
+    "static/media/arrow-down.27d0c19b.svg": "/static/media/arrow-down.27d0c19b.svg",
+    "static/media/arrow-up.6d97fcc7.svg": "/static/media/arrow-up.6d97fcc7.svg",
+    "static/media/SidebarButton.scss": "/static/media/burchak.ac686065.svg",
+    "static/media/delete.575571be.svg": "/static/media/delete.575571be.svg",
+    "static/media/diagramm.cbdaa1e5.svg": "/static/media/diagramm.cbdaa1e5.svg",
+    "static/media/SettingsMain.scss": "/static/media/edit.f7512b18.svg",
+    "static/media/food1.006d61b9.png": "/static/media/food1.006d61b9.png",
+    "static/media/food2.bcdbf259.png": "/static/media/food2.bcdbf259.png",
+    "static/media/food3.e887c6bc.png": "/static/media/food3.e887c6bc.png",
+    "static/media/food4.9c4bf9a2.png": "/static/media/food4.9c4bf9a2.png",
+    "static/media/logo.c5333dd5.svg": "/static/media/logo.c5333dd5.svg",
+    "static/media/search.scss": "/static/media/search.17a054fb.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3a28443c.js",
+    "static/js/2.c0094893.chunk.js",
+    "static/css/main.1dc5f029.chunk.css",
+    "static/js/main.f62813f9.chunk.js"
+  ]
+}
